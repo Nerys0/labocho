@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>estilos</title>
+    </head>
+    <body>
+        <!--aplicar titulos en linea-->
+        <h1> titulo en linea </h1>
+        <p> parrafo en linea </p>
+        <img src="imagen.png">
+
